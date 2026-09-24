@@ -1,0 +1,23 @@
+{
+  "name": "tagalong-gifts-for-woocommerce",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Give a free product when a customer applies a WooCommerce coupon.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mahmooodsaeed/Gift-Coupon-for-WooCommerce.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20.18"
+  },
+  "scripts": {
+    "test": "node --test --test-reporter=spec tests/e2e.test.mjs",
+    "screenshots": "node --test --test-reporter=spec tests/e2e.test.mjs"
+  },
+  "devDependencies": {
+    "@wp-playground/cli": "^3.1.55",
+    "playwright": "^1.55.0"
+  }
+}
