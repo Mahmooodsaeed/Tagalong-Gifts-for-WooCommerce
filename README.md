@@ -175,7 +175,7 @@ A full run takes several minutes, because PHP runs in WebAssembly and is slower 
 ### Project structure
 
 ```text
-Gift-Coupon-for-WooCommerce/
+Tagalong-Gifts-for-WooCommerce/
 ├── tagalong-gifts-for-woocommerce.php   the whole plugin
 ├── uninstall.php                     removes the coupon setting when the plugin is deleted
 ├── readme.txt                        the WordPress.org listing (description, FAQ, changelog)
