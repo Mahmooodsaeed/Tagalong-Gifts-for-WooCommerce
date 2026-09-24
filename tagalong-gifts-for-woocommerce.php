@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:          Tagalong Gifts for WooCommerce
- * Plugin URI:           https://github.com/Mahmooodsaeed/Gift-Coupon-for-WooCommerce
+ * Plugin URI:           https://github.com/Mahmooodsaeed/Tagalong-Gifts-for-WooCommerce
  * Description:          Give customers a free product when they apply a coupon. Choose the gift on the coupon screen.
  * Version:              2.1.0
  * Author:               Mahmood Saeed
