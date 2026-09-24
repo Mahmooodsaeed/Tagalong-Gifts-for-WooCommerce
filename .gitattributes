@@ -1,0 +1,8 @@
+# Keep development files out of GitHub's "Download ZIP" and release archives,
+# so the download is a clean plugin that can be uploaded straight to WordPress.
+/tests              export-ignore
+/screenshots        export-ignore
+/.wordpress-org     export-ignore
+/package.json       export-ignore
+/.gitignore         export-ignore
+/.gitattributes     export-ignore
