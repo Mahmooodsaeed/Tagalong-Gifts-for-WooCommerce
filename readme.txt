@@ -36,7 +36,7 @@ Choose a **Free gift product** on any coupon. When a customer applies that coupo
 * `tagalong_remove_coupon_with_gift`: return `false` to keep the coupon when the gift is removed.
 * `tagalong_free_price_html`: change the "Free" label in the classic cart.
 
-The source code and end-to-end tests are on [GitHub](https://github.com/Mahmooodsaeed/Gift-Coupon-for-WooCommerce).
+The source code and end-to-end tests are on [GitHub](https://github.com/Mahmooodsaeed/Tagalong-Gifts-for-WooCommerce).
 
 == Installation ==
 
